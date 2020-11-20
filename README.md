@@ -1,2 +1,2 @@
 # P.Euler_Rust
-A Collection of My Solutions of Project Euler using Rust
+A Collection of My Solutions to Project Euler using Rust
