@@ -10,5 +10,5 @@ pub fn solution(max: u64) -> u64 {
     return result;
 }
 fn main() {
-    println!("{}", solution(5));
+    println!("{:?}", solution(5));
 }
